@@ -1,0 +1,68 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "category": "Мужская одежда",
+      "name": "Куртка The North Face Nuptse",
+      "image": "https://static.street-beat.ru/upload/resize_cache/iblock/805/500_500_1/oxoweejons3k0dyd6zet06lzp90a4p2z.jpg",
+      "price": 299.99,
+      "description": "Теплая и стильная куртка для мужчин от известного бренда The North Face."
+    },
+    {
+      "id": 2,
+      "category": "Мужская одежда",
+      "name": "Джинсы Levi's 501 Original",
+      "image": "https://fridaywear.ru/upload/resize_cache/webp/iblock/442/4423d97fb912153a11ccd4504ad87b61.webp",
+      "price": 99.99,
+      "description": "Классические джинсы с прямым кроем от Levi's."
+    },
+    {
+      "id": 3,
+      "category": "Женская одежда",
+      "name": "Платье Zara Floral Print",
+      "image": "https://cdn.4stand.com/huge/69/0a/690a0d248952fb07451f0786b92ae55174f1d186.jpg",
+      "price": 49.99,
+      "description": "Стильное летнее платье с цветочным принтом от Zara."
+    },
+    {
+      "id": 4,
+      "category": "Женская одежда",
+      "name": "Блуза H&M Lace Blouse",
+      "image": "https://static.cdek.shopping/images/shopping/490c8c3ee3b94d969e054bc377af572b.png",
+      "price": 29.99,
+      "description": "Элегантная блуза с кружевом от H&M."
+    },
+    {
+      "id": 5,
+      "category": "Детская одежда",
+      "name": "Комбинезон Gap Baby",
+      "image": "https://a.lmcdn.ru/pi/img600x866/G/A/GA020EBBTQN2_7784625_1_v1.jpg",
+      "price": 24.99,
+      "description": "Мягкий и удобный комбинезон для младенцев от Gap."
+    },
+    {
+      "id": 6,
+      "category": "Детская одежда",
+      "name": "Платье Ralph Lauren Girls",
+      "image": "https://media-catalog.giglio.com/images/f_auto/t_prodZoom/v1/products/408517.045_1/polo-ralph-lauren.jpg",
+      "price": 59.99,
+      "description": "Праздничное платье для девочек от Ralph Lauren."
+    },
+    {
+      "id": 7,
+      "category": "Аксессуары",
+      "name": "Шарф Burberry Classic Check",
+      "image": "https://static.cdn.oskelly.ru/product/1693544/item-cb0e34f7-6c97-4bff-b596-250783e34466.png",
+      "price": 199.00,
+      "description": "Шарф из натуральной шерсти с классическим узнаваемым рисунком от Burberry."
+    },
+    {
+      "id": 8,
+      "category": "Аксессуары",
+      "name": "Ремень Gucci Double G",
+      "image": "https://cdn.childrensalon.com/media/catalog/product/g/u/gucci-black-leather-double-g-belt-526740-be2516792b1fafa9e71159749612c12e98e8bed5.jpg",
+      "price": 349.00,
+      "description": "Кожаный ремень с логотипом Double G от Gucci."
+    }
+  ]
+}
